@@ -3,7 +3,7 @@ let button = document.getElementById("enterBtn")
 let number = document.getElementById("status")
 
 button.addEventListener("click",function(){
-    number.innerHTML = "<h1> Entered metaverse </h1>"
+    number.innerHTML = "<h1> Entered Metaverse </h1>"
 })
 
 
